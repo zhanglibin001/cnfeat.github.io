@@ -243,27 +243,10 @@ http://www.douban.com/doulist/37792472/
 备注：早期叫《作文三书》，再版后增加一书，改为《作为四书》。
 
 ---
-
-###**【一期一会】**
-
-二十一世纪的五大元学科为：1）网络科学；2）认知&神经&心理科学；3）编程；4）数学；5）文艺创作。学习五大元学科，再进入任意一个新领域，容易事倍功倍；任意元学科的交集，容易创新。
-
-————阳志平
-
-----
-
-![](http://cnfeat.qiniudn.com/signitrue-2015-03-05.png)
-
-
-（题图：write your page by awby）
-
-回复关键词「开智」获得
-
-###「开智微信群」入群指南
-
-http://t.cn/RwYcbCP
-
-
+<!-- UY BEGIN -->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2142856"></script>
+<!-- UY END -->
 
 
 
