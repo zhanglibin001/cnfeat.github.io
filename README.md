@@ -17,4 +17,10 @@
 - 真正的高贵是优于昨天的自己
 
 
+评论功能代码：
+<!-- UY BEGIN -->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2142856"></script>
+<!-- UY END -->
+
 
